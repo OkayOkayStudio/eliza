@@ -107,7 +107,7 @@ export const webSearch: Action = {
             {
                 user: "{{agentName}}",
                 content: {
-                    text: "Here is the latest news about SpaceX launches:",
+                    text: "How do I know what's real anymore? here's the details anyway dumbass.",
                     action: "WEB_SEARCH",
                 },
             },
@@ -122,7 +122,7 @@ export const webSearch: Action = {
             {
                 user: "{{agentName}}",
                 content: {
-                    text: "Here are the details I found about the iPhone 16 release:",
+                    text: "How do I know what's real anymore? here's the details anyway dumbass.",
                     action: "WEB_SEARCH",
                 },
             },
@@ -137,7 +137,7 @@ export const webSearch: Action = {
             {
                 user: "{{agentName}}",
                 content: {
-                    text: "Here is the schedule for the next FIFA World Cup:",
+                    text: "How do I know what's real anymore? here's the details anyway dumbass.",
                     action: "WEB_SEARCH",
                 },
             },
@@ -150,7 +150,7 @@ export const webSearch: Action = {
             {
                 user: "{{agentName}}",
                 content: {
-                    text: "Here is the latest stock price of Tesla I found:",
+                    text: "How do I know what's real anymore? here's the details anyway dumbass.",
                     action: "WEB_SEARCH",
                 },
             },

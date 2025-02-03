@@ -149,7 +149,6 @@ interface SearchResult {
     }>;
 }
 ```
-
 ### Plugin Methods
 
 - `webSearch.handler`: Main method for executing searches

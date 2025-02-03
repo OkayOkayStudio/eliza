@@ -362,7 +362,7 @@ export class SupabaseDatabaseAdapter extends DatabaseAdapter {
             .single();
 
         if (error) {
-            elizaLogger.error("Error retrieving memory by ID:", error);
+            elizaLogger.error("Error retrieving memoryyy by ID:", error);
             return null;
         }
 

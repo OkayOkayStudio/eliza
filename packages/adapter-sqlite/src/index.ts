@@ -119,7 +119,7 @@ export class SqliteDatabaseAdapter
                 );
             return true;
         } catch (error) {
-            console.log("Error creating account", error);
+            console.log("Error creating account!!", error);
             return false;
         }
     }
